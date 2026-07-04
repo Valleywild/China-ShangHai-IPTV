@@ -185,86 +185,87 @@ http://10.223.3.189/PLTV/88888888/224/3221226037/1000010000000006000000000223311
 http://10.223.3.189/PLTV/88888888/224/3221226080/409864278.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EAEHEz9S8PR1SeNySqR9WdA%7EGBgYt2G4g3mp1H7Khhun9o6Zuj3ZkcZIB_HquE1b4VEarRFWx1w4xcRrXpOi2MxRI2bJNcVCpNQZiqYy2TQFYgBt4on5bTDSw95vyOkgHqI%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20250510113236%2C120574%2C139.227.17.230%2C20250510113236%2CUmai%3ACHAN%2F6000119%40BESTV.SMG.SMG%2C120574%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C409864278%2CEND&VIP=null
 #EXTINF:-1,家庭理财
 http://10.223.3.189/PLTV/88888888/224/3221225927/10000100000000060000000002014694_0.smil/index.m3u8?fmt=ts2hls&rrsip=10.223.5.36&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E4xwLNouGcVHKYTuTiijBsA%7EGBgYt2G4g3mp1H7Khhun9o6Zuj3ZkcZIB_HquE1b4VEarRFWx1w4xcRrXpOi2MxRI2bJNcVCpNQZiqYy2TQFYgBt4on5bTDSw95vyOkgHqI%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20250510113236%2C120574%2C139.227.17.230%2C20250510113236%2CUmai%3ACHAN%2F1872767%40BESTV.SMG.SMG%2C120574%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000002014694_0%2CEND&VIP=null
+
 # =========================================================================
 # 📺 港台海外超清频道（由 GCP :35000 端口安全中转 c.123.rr.kg）
 # =========================================================================
 
-#EXTINF:-1 tvg-name="翡翠台" group-title="GCP港台海外",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png",翡翠台
 https://test-gcp.valleywind9999.win:35000/163189/fct
 
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="GCP港台海外",华丽翡翠台(硬字幕)
+#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png",华丽翡翠台(硬字幕)
 https://test-gcp.valleywind9999.win:35000/163189/jade
 
-#EXTINF:-1 tvg-name="无线新闻" group-title="GCP港台海外",无线新闻台
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png",无线新闻台
 https://test-gcp.valleywind9999.win:35000/163189/wxxw
 
-#EXTINF:-1 tvg-name="HOY77" group-title="GCP港台海外",HOY TV
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png",HOY TV
 https://test-gcp.valleywind9999.win:35000/163189/hoy
 
-#EXTINF:-1 tvg-name="凤凰中文" group-title="GCP港台海外",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png",凤凰中文
 https://test-gcp.valleywind9999.win:35000/163189/fhzw
 
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="GCP港台海外",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png",凤凰资讯
 https://test-gcp.valleywind9999.win:35000/163189/fhzx
 
-#EXTINF:-1 tvg-name="凤凰香港" group-title="GCP港台海外",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png",凤凰香港
 https://test-gcp.valleywind9999.win:35000/163189/fhhk
 
-#EXTINF:-1 tvg-name="RTHK33" group-title="GCP港台海外",CCTV1港澳版
+#EXTINF:-1 tvg-name="RTHK33" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV1.png",CCTV1港澳版
 https://test-gcp.valleywind9999.win:35000/163189/cctv1
 
-#EXTINF:-1 tvg-name="澳视澳门" group-title="GCP港台海外",澳视澳门
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视澳门.png",澳视澳门
 https://test-gcp.valleywind9999.win:35000/163189/asam
 
-#EXTINF:-1 tvg-name="澳视卫星" group-title="GCP港台海外",澳视卫星
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/澳视卫星.png",澳视卫星
 https://test-gcp.valleywind9999.win:35000/163189/as
 
-#EXTINF:-1 tvg-name="澳视体育" group-title="GCP港台海外",澳门体育
+#EXTINF:-1 tvg-name="澳视体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门体育.png",澳门体育
 https://test-gcp.valleywind9999.win:35000/163189/amty
 
-#EXTINF:-1 tvg-name="澳视综艺" group-title="GCP港台海外",澳门综艺
+#EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门综艺.png",澳门综艺
 https://test-gcp.valleywind9999.win:35000/163189/amzy
 
-#EXTINF:-1 tvg-name="澳门莲花" group-title="GCP港台海外",澳门莲花
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳门莲花.png",澳门莲花
 https://test-gcp.valleywind9999.win:35000/163189/amlh
 
-#EXTINF:-1 tvg-name="重温经典" group-title="GCP港台海外",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/重温经典.png",重温经典
 https://test-gcp.valleywind9999.win:35000/163189/cwjd
 
-#EXTINF:-1 tvg-name="TVB1" group-title="GCP港台海外",TVB1
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png",TVB1
 https://test-gcp.valleywind9999.win:35000/163189/tvb1
 
-#EXTINF:-1 tvg-name="TVBJ1" group-title="GCP港台海外",TVBJ1
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png",TVBJ1
 https://test-gcp.valleywind9999.win:35000/163189/j1
 
-#EXTINF:-1 tvg-name="翡翠剧集台" group-title="GCP港台海外",翡翠剧集台
+#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png",翡翠剧集台
 https://test-gcp.valleywind9999.win:35000/163189/tvbd
 
-#EXTINF:-1 tvg-name="八度空间" group-title="GCP港台海外",八度空间
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/8TV.png",八度空间
 https://test-gcp.valleywind9999.win:35000/163189/8tv
 
-#EXTINF:-1 tvg-name="Channel 5" group-title="GCP港台海外",CH5
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL5.png",CH5
 https://test-gcp.valleywind9999.win:35000/163189/ch5
 
-#EXTINF:-1 tvg-name="Channel 8" group-title="GCP港台海外",CH8
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNEL8.png",CH8
 https://test-gcp.valleywind9999.win:35000/163189/ch8
 
-#EXTINF:-1 tvg-name="Channel U" group-title="GCP港台海外",CHU
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CHANNELU.png",CHU
 https://test-gcp.valleywind9999.win:35000/163189/chu
 
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="GCP港台海外",华丽翡翠台
+#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png",华丽翡翠台
 https://test-gcp.valleywind9999.win:35000/163189/hlfct
 
-#EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="GCP港台海外",TVB亚洲武侠
+#EXTINF:-1 tvg-name="TVB亚洲武侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png",TVB亚洲武侠
 https://test-gcp.valleywind9999.win:35000/163189/yzwx
 
-#EXTINF:-1 tvg-name="娛樂新聞台" group-title="GCP港台海外",TVB娱乐新闻台
+#EXTINF:-1 tvg-name="娛樂新聞台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/娱乐新闻.png",TVB娱乐新闻台
 https://test-gcp.valleywind9999.win:35000/163189/ylxw
 
-#EXTINF:-1 tvg-name="无线新闻" group-title="GCP港台海外",无线新闻台补丁
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png",无线新闻台补丁
 https://test-gcp.valleywind9999.win:35000/163189/wxxwt
 
-#EXTINF:-1 tvg-name="TVB星河" group-title="GCP港台海外",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png",TVB星河
 https://test-gcp.valleywind9999.win:35000/163189/tvbxh
 
 
@@ -272,77 +273,77 @@ https://test-gcp.valleywind9999.win:35000/163189/tvbxh
 # 🇨🇳 央视卫视超清频道（由 GCP :35001 端口安全中转 f.123.rr.kg）
 # =========================================================================
 
-#EXTINF:-1 tvg-name="CCTV1" group-title="GCP央视卫视",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV1.png",CCTV1
 https://test-gcp.valleywind9999.win:35001/163189/cctv1
 
-#EXTINF:-1 tvg-name="CCTV2" group-title="GCP央视卫视",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV2.png",CCTV2
 https://test-gcp.valleywind9999.win:35001/163189/cctv2
 
-#EXTINF:-1 tvg-name="CCTV3" group-title="GCP央视卫视",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV3.png",CCTV3
 https://test-gcp.valleywind9999.win:35001/163189/cctv3
 
-#EXTINF:-1 tvg-name="CCTV4" group-title="GCP央视卫视",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV4.png",CCTV4
 https://test-gcp.valleywind9999.win:35001/163189/cctv4
 
-#EXTINF:-1 tvg-name="CCTV5" group-title="GCP央视卫视",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV5.png",CCTV5
 https://test-gcp.valleywind9999.win:35001/163189/cctv5
 
-#EXTINF:-1 tvg-name="CCTV5" group-title="GCP央视卫视",CCTV5(备用)
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV5.png",CCTV5(备用)
 https://test-gcp.valleywind9999.win:35001/163189/cctv5-2
 
-#EXTINF:-1 tvg-name="CCTV5+" group-title="GCP央视卫视",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV5+.png",CCTV5+
 https://test-gcp.valleywind9999.win:35001/163189/cctv5p
 
-#EXTINF:-1 tvg-name="CCTV5+" group-title="GCP央视卫视",CCTV5+(备用)
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV5+.png",CCTV5+(备用)
 https://test-gcp.valleywind9999.win:35001/163189/cctv5p-2
 
-#EXTINF:-1 tvg-name="CCTV6" group-title="GCP央视卫视",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV6.png",CCTV6
 https://test-gcp.valleywind9999.win:35001/163189/cctv6
 
-#EXTINF:-1 tvg-name="CCTV7" group-title="GCP央视卫视",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV7.png",CCTV7
 https://test-gcp.valleywind9999.win:35001/163189/cctv7
 
-#EXTINF:-1 tvg-name="CCTV8" group-title="GCP央视卫视",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV8.png",CCTV8
 https://test-gcp.valleywind9999.win:35001/163189/cctv8
 
-#EXTINF:-1 tvg-name="CCTV9" group-title="GCP央视卫视",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV9.png",CCTV9
 https://test-gcp.valleywind9999.win:35001/163189/cctv9
 
-#EXTINF:-1 tvg-name="CCTV10" group-title="GCP央视卫视",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV10.png",CCTV10
 https://test-gcp.valleywind9999.win:35001/163189/cctv10
 
-#EXTINF:-1 tvg-name="CCTV11" group-title="GCP央视卫视",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV11.png",CCTV11
 https://test-gcp.valleywind9999.win:35001/163189/cctv11
 
-#EXTINF:-1 tvg-name="CCTV12" group-title="GCP央视卫视",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV12.png",CCTV12
 https://test-gcp.valleywind9999.win:35001/163189/cctv12
 
-#EXTINF:-1 tvg-name="CCTV13" group-title="GCP央视卫视",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV13.png",CCTV13
 https://test-gcp.valleywind9999.win:35001/163189/cctv13
 
-#EXTINF:-1 tvg-name="CCTV14" group-title="GCP央视卫视",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV14.png",CCTV14
 https://test-gcp.valleywind9999.win:35001/163189/cctv14
 
-#EXTINF:-1 tvg-name="CCTV15" group-title="GCP央视卫视",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV15.png",CCTV15
 https://test-gcp.valleywind9999.win:35001/163189/cctv15
 
-#EXTINF:-1 tvg-name="CCTV16" group-title="GCP央视卫视",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV16.png",CCTV16
 https://test-gcp.valleywind9999.win:35001/163189/cctv16
 
-#EXTINF:-1 tvg-name="CCTV16" group-title="GCP央视卫视",CCTV16(备用)
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV16.png",CCTV16(备用)
 https://test-gcp.valleywind9999.win:35001/163189/cctv16-2
 
-#EXTINF:-1 tvg-name="CCTV17" group-title="GCP央视卫视",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV17.png",CCTV17
 https://test-gcp.valleywind9999.win:35001/163189/cctv17
 
-#EXTINF:-1 tvg-name="重温经典" group-title="GCP央视卫视",重温经典
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/重温经典.png",重温经典
 https://test-gcp.valleywind9999.win:35001/163189/cwjd
 
-#EXTINF:-1 tvg-name="海峡卫视" group-title="GCP央视卫视",海峡卫视
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/海峡卫视.png",海峡卫视
 https://test-gcp.valleywind9999.win:35001/163189/hxws
 
-#EXTINF:-1 tvg-name="广州综合" group-title="GCP央视卫视",广州综合
+#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州综合.png",广州综合
 https://test-gcp.valleywind9999.win:35001/163189/gzzh
 
-#EXTINF:-1 tvg-name="广州新闻" group-title="GCP央视卫视",广州新闻
+#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广州新闻.png",广州新闻
 https://test-gcp.valleywind9999.win:35001/163189/gzxw
