@@ -203,11 +203,6 @@ https://test-gcp.valleywind9999.win:35000/163189/jade
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png",无线新闻台
 https://test-gcp.valleywind9999.win:35000/163189/wxxw
 
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png",明珠台
-https://cdn.qd.je/163189/mzt
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://material.1989.click/logo/明珠台.png",明珠台
-https://cdn.qd.je/163189/mztvtt
-
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png",HOY77
 https://test-gcp.valleywind9999.win:35000/163189/hoy
 
@@ -408,6 +403,10 @@ https://cdn.qd.je/163189/tvbd
 https://cdn.qd.je/163189/fct
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png",无线新闻台
 https://cdn.qd.je/163189/wxxw
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/明珠台.png",明珠台
+https://cdn.qd.je/163189/mzt
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/明珠台.png",明珠台
+https://cdn.qd.je/163189/mztvtt
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png",广东珠江
 https://cdn.qd.je/163189/gdzj
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东体育.png",广东体育
@@ -469,16 +468,7 @@ https://cdn.qd.je/163189/cctv16-2
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/五星体育.png",五星体育
 https://cdn.qd.je/163189/wxty
 
-已为您将上文所有的**台湾频道**以及本次新提供的 **BBC / Discovery / HBO 综合频道**全部整理完毕。
 
-**转换规则已严格执行：**
-
-1. **统一中转**：所有 `[https://iptv.1989.click](https://iptv.1989.click)` 域名均已替换为通过 GCP 专属中转端口的 **`[http://test-gcp.valleywind9999.win:35003](http://test-gcp.valleywind9999.win:35003)`** 格式。
-2. **属性清理**：彻底清除了所有 `group-title="..."` 标签属性。
-
-您可以直接将以下完整的 M3U 内容复制并写入到 `/root/docker-compose-proxy/iptv/live.m3u` 文件中：
-
-```text
 # =========================================================================
 # 📺 台灣及綜合頻道 (由 GCP :35003 通道中轉，免代理直連版)
 # =========================================================================
