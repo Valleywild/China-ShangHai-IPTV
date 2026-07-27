@@ -197,7 +197,7 @@ http://10.223.3.189/PLTV/88888888/224/3221225927/1000010000000006000000000201469
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png",翡翠台
 https://test-gcp.valleywind9999.win:35000/163189/fct
 
-#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png",华丽翡翠台(硬字幕)
+#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png",华丽翡翠台
 https://test-gcp.valleywind9999.win:35000/163189/jade
 
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png",无线新闻台
