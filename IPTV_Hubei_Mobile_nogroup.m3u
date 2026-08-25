@@ -10,13 +10,8 @@ http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN63807203543e3/index.m
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380728abccd2/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://epg.112114.xyz/logo/湖北教育.png" epg-url="https://epg.112114.xyz/pp.xml",湖北教育
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://epg.112114.xyz/logo/湖北生活.png" epg-url="https://epg.112114.xyz/pp.xml",湖北生活
-http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638072c62e405/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="湖北垄上" tvg-logo="https://epg.112114.xyz/logo/湖北垄上.png" epg-url="https://epg.112114.xyz/pp.xml",湖北垄上
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN638072463c333/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-name="湖北公共" tvg-logo="https://epg.112114.xyz/logo/湖北公共.png" epg-url="https://epg.112114.xyz/pp.xml",湖北公共
-http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?m3u8_level=2
-
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV1
 http://ztecdn.hb.chinamobile.com:6060/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" epg-url="https://epg.112114.xyz/pp.xml",CCTV2
