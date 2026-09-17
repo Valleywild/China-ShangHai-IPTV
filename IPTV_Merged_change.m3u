@@ -195,14 +195,32 @@ http://10.223.3.189/PLTV/88888888/224/3221225927/1000010000000006000000000201469
 # 网友CDN源https://cdn.qd.je/163189，35003推送
 # =========================================================================
 
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png",翡翠台
+http://valleywind9999.win:35003/163189/fct
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png",无线新闻台
+http://valleywind9999.win:35003/163189/wxxw
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/明珠台.png",明珠台
+http://valleywind9999.win:35003/163189/mzt
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/明珠台.png",明珠台
+http://valleywind9999.win:35003/163189/mztvtt
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png",TVB1
+http://valleywind9999.win:35003/163189/tvb1
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png",TVBj1
+http://valleywind9999.win:35003/163189/j1
+#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png",翡翠剧集台
+http://valleywind9999.win:35003/163189/tvbd
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png",TVB星河
+http://valleywind9999.win:35003/163189/xinghe
+#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png",华丽翡翠台(硬字幕)
+http://valleywind9999.win:35003/163189/jade
+#EXTINF:-1 tvg-name="HOY76" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png",HOY76
+http://valleywind9999.win:35003/163189/hoy76
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png",HOY77
 http://valleywind9999.win:35003/163189/hoy
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png",HOY77
 http://valleywind9999.win:35003/163189/hoy2
 #EXTINF:-1 tvg-name="HOY78" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png",HOY78
 http://valleywind9999.win:35003/163189/hoy78
-#EXTINF:-1 tvg-name="HOY76" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/HOY TV.png",HOY76
-http://valleywind9999.win:35003/163189/hoy76
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTV.png",ViuTV
 http://valleywind9999.win:35003/163189/viu
 #EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/ViuTVsix.png",ViuTVsix
@@ -213,6 +231,12 @@ http://valleywind9999.win:35003/163189/now
 http://valleywind9999.win:35003/163189/rthk31
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/RTHK32.png",RTHK32
 http://valleywind9999.win:35003/163189/rthk32
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png",凤凰中文
+http://valleywind9999.win:35003/163189/fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png",凤凰资讯
+http://valleywind9999.win:35003/163189/fhzx
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png",凤凰香港
+http://valleywind9999.win:35003/163189/fhhk
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/澳视澳门.png",澳视澳门
 http://valleywind9999.win:35003/163189/asam
 #EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/澳视卫星.png",澳视卫星
@@ -225,26 +249,6 @@ http://valleywind9999.win:35003/163189/amzy
 http://valleywind9999.win:35003/163189/amlh
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/重温经典.png",重温经典
 http://valleywind9999.win:35003/163189/cwjd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰中文.png",凤凰中文
-http://valleywind9999.win:35003/163189/fhzw
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/凤凰资讯.png",凤凰资讯
-http://valleywind9999.win:35003/163189/fhzx
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/凤凰卫视香港台.png",凤凰香港
-http://valleywind9999.win:35003/163189/fhhk
-#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB1.png",TVB1
-http://valleywind9999.win:35003/163189/tvb1
-#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBJ1.png",TVBj1
-http://valleywind9999.win:35003/163189/j1
-#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVBDRAMA.png",翡翠剧集台
-http://valleywind9999.win:35003/163189/tvbd
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/翡翠台.png",翡翠台
-http://valleywind9999.win:35003/163189/fct
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@main/无线新闻.png",无线新闻台
-http://valleywind9999.win:35003/163189/wxxw
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/明珠台.png",明珠台
-http://valleywind9999.win:35003/163189/mzt
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/明珠台.png",明珠台
-http://valleywind9999.win:35003/163189/mztvtt
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东珠江.png",广东珠江
 http://valleywind9999.win:35003/163189/gdzj
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/广东体育.png",广东体育
@@ -275,8 +279,6 @@ http://valleywind9999.win:35003/163189/lhkt
 http://valleywind9999.win:35003/163189/jgbdx
 #EXTINF:-1 tvg-name="TVB亚洲武侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv@main/icon/TVB功夫.png",亚洲武侠
 http://valleywind9999.win:35003/163189/yzwx
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/TVB 星河.png",TVB星河
-http://valleywind9999.win:35003/163189/xinghe
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映频道.png",天映频道(新加坡)
 http://valleywind9999.win:35003/163189/typd
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/天映经典.png",天映经典
@@ -285,8 +287,6 @@ http://valleywind9999.win:35003/163189/ccm
 http://valleywind9999.win:35003/163189/hxws
 #EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/海峡卫视.png",海峡卫视
 http://valleywind9999.win:35003/163189/hxws2
-#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/TVB Jade (HD).png",华丽翡翠台(硬字幕)
-http://valleywind9999.win:35003/163189/jade
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV5.png",CCTV5
 http://valleywind9999.win:35003/163189/cctv5
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/luoluowoaini/666-@iill-logo-mytvsuper/CCTV5.png",CCTV5
