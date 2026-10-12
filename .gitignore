@@ -1,0 +1,15 @@
+# 1. 忽略指定名称的具体文件
+Untitled-1.sh
+Untitled-2.groovy
+live.m3u
+
+# 2. 通配符：忽略所有某类型的文件
+*.log
+*.pyc
+Untitled-*.*
+*test*
+
+# 3. 忽略指定目录及其下所有内容
+backups/
+__pycache__/
+.vscode/
