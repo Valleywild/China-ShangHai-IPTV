@@ -2,6 +2,7 @@
 Untitled-1.sh
 Untitled-2.groovy
 live.m3u
+live_clean_adult.m3u
 
 # 2. 通配符：忽略所有某类型的文件
 *.log
